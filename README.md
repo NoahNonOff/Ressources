@@ -1,8 +1,8 @@
 # Ressources
 
-Links to train code :
---> code wars
---> hacker 101
+Links to train code :\n
+--> code wars\n
+--> hacker 101\n
 --> 
 
 Links to learn code : 
