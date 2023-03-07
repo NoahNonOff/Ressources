@@ -21,3 +21,7 @@ Cheat sheet :
 --> "https://htmlcheatsheet.com/js/" (js)
 --> "https://www.pierre-giraud.com/http-reseau-securite-cours/modele-reseau-osi-tcp-ip/" (modèle OSI et TCP/IP)
 -->
+
+Others important links :
+--> "https://www.eccouncil.org/" (Ethical Hacking certification)
+-->
