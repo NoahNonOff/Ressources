@@ -16,3 +16,6 @@ Places to learn from on Youtube :
 --> "https://www.youtube.com/c/STOKfredrik" (STOK - Bug Bounty)
 --> "https://www.youtube.com/c/NullByteWHT" (Null Byte - Concepts, Tools, Tutorials)
 --> 
+
+Cheat sheet :
+--> "https://htmlcheatsheet.com/js/" (js)
