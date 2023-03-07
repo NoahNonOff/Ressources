@@ -19,3 +19,5 @@ Places to learn from on Youtube :
 
 Cheat sheet :
 --> "https://htmlcheatsheet.com/js/" (js)
+--> "https://www.pierre-giraud.com/http-reseau-securite-cours/modele-reseau-osi-tcp-ip/" (modèle OSI et TCP/IP)
+-->
